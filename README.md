@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an Android Developer<br>👯 I’m looking for an internship<br>🌱 I’m currently working on Recruitments App<br>⚡ Let's Collaborate & Develop 
+🔭 I’m an Android Developer<br>👯 I’m looking for an internship<br>⚡ Let's Collaborate & Develop 
 
 
 ## 🌐 Socials:
@@ -18,4 +18,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vaishnavgupta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
