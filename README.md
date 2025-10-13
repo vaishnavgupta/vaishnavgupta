@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an Android Developer<br>👯 I’m looking for an internship<br>⚡ Let's Collaborate & Develop 
+🔭 I’m an Full Stack Web Developer<br>👯 I’m looking for an internship<br>⚡ Let's Collaborate & Develop 
 
 
 ## 🌐 Socials:
