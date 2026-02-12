@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m an Full Stack Web Developer<br>👯 I’m looking for an internship<br>⚡ Let's Collaborate & Develop 
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue)](https://vaishnav-gupta-portfolio.vercel.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaishnav._gupta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishanvgupta) 
